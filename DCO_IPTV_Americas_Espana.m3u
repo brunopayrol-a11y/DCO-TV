@@ -99,6 +99,27 @@ https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TVMparati.ve@SD" group-title="Venezuela",TVM para ti (1080p)
 https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
 
+#EXTINF:-1 tvg-id="UniMas.us@KFTRDT" group-title="Latinos",UniMas KFTR [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV.us@SD" group-title="Latinos",Estrella TV (1080p)
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us@SD" group-title="Noticias",Estrella News (1080p)
+https://estrellanews-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",Telemundo Noticias Ahora (1080p)
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="Latinos",Telemundo Accion (1080p)
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@HD" group-title="España",TVE Internacional America HD (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" group-title="Latinos",Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" group-title="Latinos",Caracol TV (1080p)
+http://181.78.17.228:8081/CARACOL-HD/index.m3u8
+#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" group-title="Latinos",Nuestra Tele Internacional (720p)
+http://170.238.200.199/nuestra-tele/index.m3u8
+#EXTINF:-1 tvg-id="NTN24.co@SD" group-title="Noticias",NTN24 (576p)
+http://181.78.8.199:8000/play/a0a6/index.m3u8
+
 # ===== ESPAÑA =====
 #EXTINF:-1 tvg-id="3CatInfo.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/960px-3CatInfo_logo.svg.png" group-title="España",3CatInfo (1080p)
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
