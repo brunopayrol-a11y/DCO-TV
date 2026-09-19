@@ -30,6 +30,71 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="8NTV.mx@SD" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="Latinos",8NTV Mexico (1080p)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 
+# ===== CUBA =====
+#EXTINF:-1 tvg-id="PrensaLatinaTV.cu@SD" group-title="Cuba",Prensa Latina TV (1080p)
+https://eu1.servers10.com:8081/8192/index.m3u8
+#EXTINF:-1 tvg-id="RadioyTelevisionMarti.us@SD" group-title="Cuba",Radio y Television Marti (720p)
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
+#EXTINF:-1 tvg-id="CubavisionInternacional.cu@SD" group-title="Cuba",Cubavision Internacional (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
+# ===== REPUBLICA DOMINICANA =====
+#EXTINF:-1 tvg-id="Digital15.do@SD" group-title="Republica Dominicana",Digital 15 (1080p)
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/15tv/index_pc.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live2.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesistema11.do@SD" group-title="Republica Dominicana",Telesistema 11 (1080p) [Not 24/7]
+https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8
+#EXTINF:-1 tvg-id="Canal4RD.do@SD" group-title="Republica Dominicana",Canal 4 RD (1080p)
+https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal17RTVD.do@HD" group-title="Republica Dominicana",Canal 17 RTVD (1080p)
+https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldelSol.do@SD" group-title="Republica Dominicana",Canal del Sol (1080p) [Not 24/7]
+https://stream.canaldelsol.com/sol26/live_1080.m3u8
+#EXTINF:-1 tvg-id="ElSeis6.do@SD" group-title="Republica Dominicana",El Seis 6 (1080p) [Not 24/7]
+https://stream.elseis.do/canal6/live_1080.m3u8
+#EXTINF:-1 tvg-id="A7TV.do@HD" group-title="Republica Dominicana",A7 TV (1080p)
+https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
+#EXTINF:-1 tvg-id="Carivision.do@SD" group-title="Republica Dominicana",Carivision (1080p) [Geo-blocked]
+https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
+#EXTINF:-1 tvg-id="CieloTV.do@SD" group-title="Republica Dominicana",Cielo TV (1080p)
+https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena7.do@SD" group-title="Republica Dominicana",Antena 7 (720p) [Not 24/7]
+https://hls.tvabierta.net/hls/007.m3u8
+#EXTINF:-1 tvg-id="Antena21.do@SD" group-title="Republica Dominicana",Antena 21 (720p) [Not 24/7]
+https://hls.tvabierta.net/hls/021.m3u8
+#EXTINF:-1 tvg-id="ColorVision.do@SD" group-title="Republica Dominicana",Color Vision (1280p) [Not 24/7]
+https://hls.tvabierta.net/hls/009.m3u8
+#EXTINF:-1 tvg-id="CDNDeportes.do@SD" group-title="Republica Dominicana",CDN Deportes (720p) [Not 24/7]
+https://hls.tvabierta.net/hls/036.m3u8
+#EXTINF:-1 tvg-id="Teleuniverso.do@SD" group-title="Republica Dominicana",Teleuniverso (720p) [Not 24/7]
+https://hls.tvabierta.net/hls/029.m3u8
+
+# ===== VENEZUELA =====
+#EXTINF:-1 tvg-id="Telesur.ve@HD" group-title="Venezuela",Telesur HD (1080p)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalI.ve@SD" group-title="Venezuela",Canal I (1080p)
+https://streaming.canal-i.com/canal-i/live/master.m3u8
+#EXTINF:-1 tvg-id="LatinaTV.ve@SD" group-title="Venezuela",Latina TV (1080p)
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-id="MasTalk.ve@SD" group-title="Venezuela",Mas Talk (1080p)
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+#EXTINF:-1 tvg-id="MAXAnime.ve@SD" group-title="Venezuela",MAX Anime (1080p)
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AS3SportTV.ve@SD" group-title="Venezuela",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="VenevisionInternacional.ve@SD" group-title="Venezuela",Venevision Internacional (720p)
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 tvg-id="UN24.ve@untv720" group-title="Venezuela",UN24 (720p)
+#EXTVLCOPT:http-referrer=https://un24.tv/
+https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8
+#EXTINF:-1 tvg-id="AguacateTV.ve@SD" group-title="Venezuela",Aguacate TV (1080p)
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="TVMparati.ve@SD" group-title="Venezuela",TVM para ti (1080p)
+https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
+
 # ===== ESPAÑA =====
 #EXTINF:-1 tvg-id="3CatInfo.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/960px-3CatInfo_logo.svg.png" group-title="España",3CatInfo (1080p)
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
