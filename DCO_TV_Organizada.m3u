@@ -171,7 +171,9 @@ https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
 https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 
 # ===== 🏆 Deportes =====
-# Eurosport 1/2: reservado; falta URL pública/autorizada compatible con M3U.
+#EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" group-title="🏆 Deportes",Eurosport 4K Czechia (UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" group-title="🏆 Deportes",FIFA+ (720p)
 https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de@SD" group-title="🏆 Deportes",Motorvision (1080p)
