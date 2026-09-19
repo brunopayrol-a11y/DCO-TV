@@ -296,6 +296,18 @@ https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 
 # ===== 🎬 Peliculas =====
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us@SD" group-title="🎬 Peliculas",MyTime Movie Network (1080p)
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GREATmovies.uk@UK" group-title="🎬 Peliculas",Great! Movies (1080p)
+https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us@SD" group-title="🎬 Peliculas",Maverick Black Cinema (1080p)
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us@SD" group-title="🎬 Peliculas",Hallmark Movies & More (1080p)
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es@SD" group-title="🎬 Peliculas",MyTime Movie Network Spain (1080p)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us@US" group-title="🎬 Peliculas",MovieSphere by Lionsgate (1080p)
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="24HourFreeMovies.us@SD" group-title="🎬 Peliculas",24 Hour Free Movies (720p)
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 tvg-id="30ATVClassicMovies.us@SD" group-title="🎬 Peliculas",30A TV Classic Movies (720p)
