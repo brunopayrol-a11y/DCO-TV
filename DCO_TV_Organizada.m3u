@@ -171,6 +171,20 @@ https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
 https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 
 # ===== 🏆 Deportes =====
+#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD" group-title="🏆 Deportes",NBC Sports NOW (1080p)
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" group-title="🏆 Deportes",beIN SPORTS XTRA (1080p)
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" group-title="🏆 Deportes",beIN SPORTS XTRA en Español (1080p)
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD" group-title="🏆 Deportes",CBS Sports Golazo Network (720p)
+https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
+#EXTINF:-1 tvg-id="CBSSportsHQ.us@SD" group-title="🏆 Deportes",CBS Sports HQ (720p)
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us@SD" group-title="🏆 Deportes",SportsGrid (1080p)
+https://sportsgrid-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🏆 Deportes",T2 Tennis Channel (1080p)
+https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" group-title="🏆 Deportes",Eurosport 4K Czechia (UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
@@ -205,6 +219,18 @@ https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 
 # ===== 📰 Noticias =====
+#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" group-title="📰 Noticias",NBC News NOW (1080p)
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="CBSNews247.us@SD" group-title="📰 Noticias",CBS News 24/7 (720p)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us@SD" group-title="📰 Noticias",ABC News Live (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
+#EXTINF:-1 tvg-id="SkyNews.ie@SD" group-title="📰 Noticias",Sky News
+https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
+#EXTINF:-1 tvg-id="24Horas.es@SD" group-title="📰 Noticias",RTVE Canal 24 Horas (720p)
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="24HorasCanarias.es@SD" group-title="📰 Noticias",RTVE Canal 24 Horas Canarias (720p)
+https://ztnr.rtve.es/ztnr/5473142.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca@SD" group-title="📰 Noticias",CBC News Network (720p) [Canada]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 #EXTINF:-1 group-title="📰 Noticias",CBC News Toronto (1080p) [Canada]
