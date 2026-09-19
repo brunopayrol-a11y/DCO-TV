@@ -156,7 +156,22 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@HD" group-title="🇪🇸 España",TVE Internacional America HD (1080p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 
+# ===== 🇨🇦 Canada =====
+#EXTINF:-1 tvg-id="CBCTelevision.ca@CBLTDT" group-title="🇨🇦 Canada",CBC Toronto (720p) [Canada]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+#EXTINF:-1 tvg-id="CBCTelevision.ca@CBUTDT" group-title="🇨🇦 Canada",CBC Vancouver (720p) [Canada]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+#EXTINF:-1 tvg-id="CBCTelevision.ca@CFYKDT" group-title="🇨🇦 Canada",CBC North (720p) [Canada]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
+#EXTINF:-1 tvg-id="CBCTelevision.ca@CBHTDT" group-title="🇨🇦 Canada",CBC Nova Scotia (720p) [Canada]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CBOFTDT" group-title="🇨🇦 Canada",Ici Radio-Canada Ottawa/Gatineau [Canada]
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
+#EXTINF:-1 tvg-id="TheWeatherNetwork.ca@SD" group-title="🇨🇦 Canada",The Weather Network (720p)
+https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
+
 # ===== 🏆 Deportes =====
+# Eurosport 1/2: reservado; falta URL pública/autorizada compatible con M3U.
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" group-title="🏆 Deportes",FIFA+ (720p)
 https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de@SD" group-title="🏆 Deportes",Motorvision (1080p)
@@ -188,6 +203,35 @@ https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 
 # ===== 📰 Noticias =====
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca@SD" group-title="📰 Noticias",CBC News Network (720p) [Canada]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
+#EXTINF:-1 group-title="📰 Noticias",CBC News Toronto (1080p) [Canada]
+https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master.m3u8
+#EXTINF:-1 group-title="📰 Noticias",CBC News BC (1080p) [Canada]
+https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
+#EXTINF:-1 group-title="📰 Noticias",CBC News Explore (1080p) [Canada]
+https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
+#EXTINF:-1 tvg-id="CPACEnglish.ca@SD" group-title="📰 Noticias",CPAC Canada (720p)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 group-title="📰 Noticias",Global News Toronto
+https://jmp2.uk/plu-62cc00b3b821cf00070f82c3.m3u8
+#EXTINF:-1 group-title="📰 Noticias",Global News BC
+https://jmp2.uk/plu-62cbf063257170000724590c.m3u8
+#EXTINF:-1 group-title="📰 Noticias",Global News Calgary
+https://jmp2.uk/plu-62cbf23dcfb48300077f8348.m3u8
+#EXTINF:-1 group-title="📰 Noticias",Global News Edmonton
+https://jmp2.uk/plu-62cbf2de1fba5f0007e47d9c.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD" group-title="📰 Noticias",LiveNOW from FOX (720p)
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us@SD" group-title="📰 Noticias",FOX Weather (720p)
+https://jmp2.uk/plu-640a68880e884c0009979cc2.m3u8
+#EXTINF:-1 group-title="📰 Noticias",CNN Headlines
+https://jmp2.uk/plu-66c45c274f25dd00092739ee.m3u8
+#EXTINF:-1 group-title="📰 Noticias",CNN Noticias
+https://jmp2.uk/plu-673248f9030a2c0008033af8.m3u8
+#EXTINF:-1 group-title="📰 Noticias",CNN Originals
+https://jmp2.uk/plu-66e0b4536ad04d0008fff4b2.m3u8
+
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" group-title="📰 Noticias",24/7 Canal de Noticias Argentina
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 tvg-id="4DmasNoticiasTV.py@SD" group-title="📰 Noticias",4Dmas Noticias TV Paraguay (1080p) [Not 24/7]
